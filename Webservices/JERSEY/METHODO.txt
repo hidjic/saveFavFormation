@@ -1,0 +1,14 @@
+
+1) Création squelette projet 
+
+2) gestion des dépendances
+
+3) Paramétrage Servlet JErsey (avec package cible pour clésses service)
+
+4) Création classe Service annotée @Path
+
+5) création méthode avec verbe @GET ou @POST...
+
+6) Format de requête (@Consumes(MediaType.APPLICATION_JSON))
+
+7) Format de Réponse (@Produces(MediaType.APPLICATION_JSON))

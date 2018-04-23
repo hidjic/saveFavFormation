@@ -1,0 +1,8 @@
+
+1) Binding OBJET --> JSON (voir TP Objis)      10 min
+
+2) JSON --> OBJET                               5min
+
+3) Liste OBJET --> JSON Liste Objet             10min
+
+4) JSON Liste Objet --> Liste Objet             5min
